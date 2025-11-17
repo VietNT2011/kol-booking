@@ -1,0 +1,41 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    width: 100%;
+}
+.header__logo {
+    font-size: 36px;
+    font-weight: bold;
+    color: #0074ff;
+}
+.header__nav{
+    display: flex;
+    color: #394756;
+    font-size: 22px;
+    font-weight: 600;
+    justify-content: space-around;
+    width: 30%;
+}
+.header__auth{
+    display: flex;
+    justify-content: space-around;
+    width: 15%;
+}
+.header__auth button{
+    font-size: 22px;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #0074ff;
+    padding: 10px 15px;
+}
+.header__auth-login:hover,
+.header__auth-register:hover {
+    background-color: #ffcc00;
+}

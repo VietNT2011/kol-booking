@@ -1,0 +1,31 @@
+.home {
+    width: 100%;
+    height: auto;
+}
+
+.home__hero {
+    width: 100%;
+    height: auto;
+}
+
+.home__hero-video {
+    width: 100%;
+    height: auto;
+}
+
+.home__hero-video video {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.home__hero-banner {
+    width: 100%;
+    height: auto;
+}
+
+.home__hero-banner img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
