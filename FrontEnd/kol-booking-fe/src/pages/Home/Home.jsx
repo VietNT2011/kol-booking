@@ -5,6 +5,7 @@ import img1 from '../../assets/img_solution_1.png'
 import img2 from '../../assets/img_solution_2.png'
 import img3 from '../../assets/img_solution_3.jpg'
 import './Home.css'
+import BrandSlider from "../../components/BrandSlider/BrandSlider";
 const Home = () => {
   return (
     <div className='home'>
@@ -59,6 +60,8 @@ const Home = () => {
                 
             </div>
         </div>
+
+        <BrandSlider />
 
     </div>
   )
