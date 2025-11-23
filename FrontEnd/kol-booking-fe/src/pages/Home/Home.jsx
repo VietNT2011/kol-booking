@@ -6,6 +6,7 @@ import img2 from '../../assets/img_solution_2.png'
 import img3 from '../../assets/img_solution_3.jpg'
 import vision_image from '../../assets/visionimage/visionimage.png'
 import strength_image from '../../assets/strengthimage/strength_img.png'
+import contact_img from '../../assets/contactimage/contact_img.svg'
 import './Home.css'
 import BrandSlider from "../../components/BrandSlider/BrandSlider";
 const Home = () => {
@@ -106,6 +107,22 @@ const Home = () => {
 
             <div className="strengths__right">
                 <img className="strengths__right-image" src={strength_image} alt="Strengths"/>
+            </div>
+        </div>
+
+        <div className="home__contact">
+            <div className="contact__top">
+                <h2 className="contact__top-title">Vui Lòng Để Lại Thông Tin <br />HALAGO Tư Vấn Miễn Phí</h2>
+            </div>
+            <div className="contact__form">
+                <form action="">
+                    <input type="text" />
+                    <input type="text" />
+                    <button>Tư vấn cho tôi</button>
+                </form>
+            </div>
+            <div className="contact__bot">
+                <img src={contact_img} alt="" className="contact__bot-img" />
             </div>
         </div>
 
