@@ -116,13 +116,38 @@ const Home = () => {
             </div>
             <div className="contact__form">
                 <form action="">
-                    <input type="text" />
-                    <input type="text" />
+                    <div className="input_container">
+                        <label htmlFor="">Họ và tên</label>
+                        <input type="text" placeholder='Nhập họ và tên của bạn'/>   
+                    </div>
+
+                    <div className="input_container">
+                        <label htmlFor="">Email</label>
+                        <input type="text" placeholder='Nhập địa chỉ email của bạn'/>
+                    </div>
+
+                    <div className="input_container">
+                        <label htmlFor="">Số điện thoại</label>
+                        <input type="text" placeholder='Nhập số điện thoại của bạn'/>
+                    </div>
+
+                    <div className="input_container">
+                        <label htmlFor="">Link Page FB hoặc Website</label>
+                        <input type="text" placeholder='Nhập link Facebook hoặc Website của bạn'/>
+                    </div>
+
+                    <div className="input_container">
+                        <label htmlFor="">Yêu cầu cụ thể</label>
+                        <input type="text" placeholder='Mô tả yêu nhu cần được tư vấn'/>    
+                    </div>
+
                     <button>Tư vấn cho tôi</button>
                 </form>
             </div>
             <div className="contact__bot">
-                <img src={contact_img} alt="" className="contact__bot-img" />
+                <div className="contact__bot-img">
+                    <img src={contact_img} alt="" />
+                </div>
             </div>
         </div>
 

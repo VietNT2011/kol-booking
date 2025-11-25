@@ -91,7 +91,7 @@ const Footer = () => {
         <div className="footer__watermark">
           
           <p>
-            © Developed by Thanhviet. All rights reserved.
+            © Developed by ThanhViet. All rights reserved.
           </p>
 
         </div>
