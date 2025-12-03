@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eQRv07BebNU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ntv14\\OneDrive\\Desktop\\kol-booking\\BackEnd\\KolBooking.Backend\\KolBooking.Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ntv14\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\ntv14\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
