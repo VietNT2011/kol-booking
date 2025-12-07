@@ -1,5 +1,5 @@
 def main():
-    print("Hello from kolbooking-ragservice!")
+    print("Hello from kol-booking-rag!")
 
 
 if __name__ == "__main__":

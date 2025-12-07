@@ -81,11 +81,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ntv14\\OneDrive\\Desktop\\kol-booking\\BackEnd\\KolBooking.Backend\\KolBooking.Backend.csproj",
-      "projectName": "KolBooking.Backend",
-      "projectPath": "C:\\Users\\ntv14\\OneDrive\\Desktop\\kol-booking\\BackEnd\\KolBooking.Backend\\KolBooking.Backend.csproj",
+      "projectUniqueName": "C:\\Users\\ntv14\\OneDrive\\Desktop\\kol-booking\\BackEnd\\kol-booking-be\\kol-booking-be.csproj",
+      "projectName": "kol-booking-be",
+      "projectPath": "C:\\Users\\ntv14\\OneDrive\\Desktop\\kol-booking\\BackEnd\\kol-booking-be\\kol-booking-be.csproj",
       "packagesPath": "C:\\Users\\ntv14\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ntv14\\OneDrive\\Desktop\\kol-booking\\BackEnd\\KolBooking.Backend\\obj\\",
+      "outputPath": "C:\\Users\\ntv14\\OneDrive\\Desktop\\kol-booking\\BackEnd\\kol-booking-be\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,13 @@
+[project]
+name = "kol-booking-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.124.0",
+    "llama-index-core>=0.14.10",
+    "llama-index-readers-file>=0.5.5",
+    "qdrant-client>=1.16.1",
+    "uvicorn>=0.38.0",
+]
